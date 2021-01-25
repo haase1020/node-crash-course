@@ -1,0 +1,20 @@
+{
+  "name": "node-crash-course",
+  "version": "1.0.0",
+  "description": "a tutorial for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haase1020/node-crash-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haase1020/node-crash-course/issues"
+  },
+  "homepage": "https://github.com/haase1020/node-crash-course#readme"
+}
