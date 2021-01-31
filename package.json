@@ -19,7 +19,9 @@
   "homepage": "https://github.com/haase1020/node-crash-course#readme",
   "devDependencies": {},
   "dependencies": {
+    "ejs": "^3.1.5",
     "express": "^4.17.1",
-    "lodash": "^4.17.20"
+    "lodash": "^4.17.20",
+    "morgan": "^1.10.0"
   }
 }
